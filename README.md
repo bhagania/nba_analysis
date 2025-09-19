@@ -3,7 +3,7 @@ This is NBA analysis using data from Kaggle. It reflects prelim analysis. Use of
 
 🚨 N.B.A Live (using Python 🐍 :p) 🚨
 
-Over the past few days, I dived into NBA data and built a simple exploratory analysis project in Python. Using pandas, NumPy, and matplotlib, I explored:
+I dived into NBA data and built a simple exploratory analysis project in Python. Using pandas, NumPy, and matplotlib, I explored:
 
 🏀 How many games were played (71,829 between 1946–2025)
 📍 Which cities hosted the most matches (L.A., Boston, New York, Philly, Detroit)
@@ -16,6 +16,4 @@ The analysis was simple EDA (Exploratory Data Analysis), but it highlighted how 
 👉 The exciting part?
 This is just scratching the surface. With deeper Machine Learning and Regression Modeling, we could move beyond historical analysis to predicting future winners, player performance, or even which teams might be safer bets in a season.
 
-💡 I’d love to hear from this amazing community:
-➡️ What are the best courses (Udemy, Coursera, etc.) to learn ML/Regression Modeling specifically for sports analytics or time-series prediction?
 
